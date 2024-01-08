@@ -1,0 +1,71 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level_01.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Pixel Adventure.tsx": {
+            "scaleInDock": 1.3768,
+            "scaleInEditor": 1
+        },
+        "level_01.tmx": {
+            "expandedObjectLayers": [
+                3,
+                4
+            ],
+            "scale": 1.3077,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 286.3806683490097,
+                "y": 277.96895312380514
+            }
+        },
+        "level_02.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 0.7016,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 469.6408209806158,
+                "y": 421.1801596351197
+            }
+        },
+        "level_03.tmx": {
+            "scale": 1.3636,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 325.97535934291585,
+                "y": 261.44030507480204
+            }
+        }
+    },
+    "last.imagePath": "/Users/elexoft/Desktop/Projects Flutter/Elexoft Flutter projects/practice_test/flutter_game_2/assets/images/Terrain",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "mapScene.enableWorlds": false,
+    "openFiles": [
+        "Pixel Adventure.tsx",
+        "level_01.tmx",
+        "level_02.tmx"
+    ],
+    "project": "pixel_adventure.tiled-project",
+    "property.type": "float",
+    "recentFiles": [
+        "Pixel Adventure.tsx",
+        "level_02.tmx",
+        "level_01.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
