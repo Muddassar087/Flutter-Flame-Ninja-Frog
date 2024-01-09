@@ -52,8 +52,11 @@ class PixelAdventure extends FlameGame
       priority: 3,
     );
 
-    pauseComponent =
-        PauseComponent(position: Vector2(10, 10), size: Vector2(10, 10));
+    pauseComponent = PauseComponent(
+      text: "Pause",
+      position: Vector2(30, 10),
+      size: Vector2(10, 10),
+    );
 
     loadLevel();
 

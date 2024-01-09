@@ -8,7 +8,7 @@ class LevelsData {
 
   static Future<void> deleteLevels() async {
     sharedPreferences ??= await SharedPreferences.getInstance();
-    await sharedPreferences!.remove(key);
+    (await sharedPreferences!.remove(key));
   }
 
   static Future<void> unlockAndActivate(int level) async {

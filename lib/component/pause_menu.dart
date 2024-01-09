@@ -1,8 +1,13 @@
 import 'package:flame/components.dart';
 import 'package:flame/events.dart';
 
-class PauseComponent extends RectangleComponent with TapCallbacks {
-  PauseComponent({super.position, super.size, super.priority = 3}) {
+class PauseComponent extends TextComponent with TapCallbacks {
+  PauseComponent({
+    super.position,
+    super.size,
+    super.priority = 3,
+    required super.text,
+  }) {
     super.debugMode = false;
   }
 

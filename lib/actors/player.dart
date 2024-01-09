@@ -73,8 +73,8 @@ class Player extends SpriteAnimationGroupComponent
   @override
   void update(double dt) {
     if (!hit && !reachedCheckpoint) {
-      updateByJoyStick();
-      jumpByButton();
+      // updateByJoyStick();
+      // jumpByButton();
       _movePlayer(dt);
       _updatePlayerState();
       _checkHorizontalCollision();
